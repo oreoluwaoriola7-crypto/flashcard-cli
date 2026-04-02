@@ -1,0 +1,17 @@
+{
+    "name": "Python Basics",
+    "cards": [
+        {
+            "question": "what does for loop do",
+            "answer": "iterates over a sequence",
+            "times_correct": 0,
+            "times_wrong": 0
+        },
+        {
+            "question": "what does break do in a loop",
+            "answer": "exits the loop immediately",
+            "times_correct": 0,
+            "times_wrong": 0
+        }
+    ]
+}
